@@ -29,3 +29,29 @@
 .list-items:hover{
     color: chocolate;
 }
+.banner-pic{
+    width: 300px;
+}
+.banner-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    height: 100vh;
+    background-image: url(./Digital-Product-b8-test-main/images/background.png), linear-gradient(55deg,#4a4848,#000);
+}
+.banner-h1{
+    font-size: 60px;
+}
+.banner-p{
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.btn{
+    padding: 10px 20px;
+    background-color: red;
+    border: none;
+    color: white;
+    border-radius: 15px;
+}
