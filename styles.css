@@ -55,3 +55,25 @@
     color: white;
     border-radius: 15px;
 }
+.about-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 10px;
+}
+.about-pic{
+    width: 300px;
+}
+.about-title{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 15px;
+}
+.about-text{
+
+}
+.lorem{
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
